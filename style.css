@@ -1,0 +1,30 @@
+body {
+      font-family: Arial;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: purple;
+      text-align: center;
+    }
+    
+    .container {
+      background-color: white;
+      padding: 15px;
+      border: 1px solid grey;
+    }
+    
+    button {
+      background-color: blue;
+      color: white;
+      padding: 8px 15px;
+      border: none;
+      margin-top: 15px;
+    }
+    
+    #updated-menu {
+      display: none;
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f0f0f0;
+    }
